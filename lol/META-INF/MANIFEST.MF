@@ -1,0 +1,7 @@
+Manifest-Version: 1.0
+Bundle-ManifestVersion: 2
+Bundle-Name: Lol
+Bundle-SymbolicName: lol
+Bundle-Version: 1.0.0.qualifier
+Automatic-Module-Name: lol
+Bundle-RequiredExecutionEnvironment: JavaSE-18
